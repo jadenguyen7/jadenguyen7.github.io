@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Hacking Life with Jade
 
 You can use the [editor on GitHub](https://github.com/jadenguyen7/jadenguyen7.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
